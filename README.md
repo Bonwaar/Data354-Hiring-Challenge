@@ -63,7 +63,7 @@ Pour effectuer le processus ETL, suivez ces étapes :
 *username*: `root`
 *pwd*: ``
 
-2. Importez le tableau de bord du répertoire `Dashboard` du dépôt.
+2. Importez le tableau de bord  `Dashboard.zip` du dépôt dans Apache Superset.
 
 3. Explorez et visualisez les données à l'aide de Superset.
 
@@ -87,8 +87,8 @@ Pour effectuer le processus ETL, suivez ces étapes :
 
 ## Difficultés rencontrées
 
-1. **Connextion de apache superset à ma  base de données mongodb**
+1. **Connextion de apache superset à ma base de données mongodb**
 
-2. **Connextion de apache superset à ma  base de données cassandra**
+2. **Connextion de apache superset à ma base de données cassandra**
 
 Ces difficultés m'ont obligé à utiliser une bd relationnelle à apache superset
