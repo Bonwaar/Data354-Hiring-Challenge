@@ -47,7 +47,7 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants sur v
 
 Pour effectuer le processus ETL, suivez ces étapes :
 
-1. Exécutez le notebook Jupyter (`etl_notebook.ipynb` dans le dépôt) contenant les fonctions `extract()`, `transform()`, `load_in_mongo()`, `load_in_cassandra()` et `load_in_mysql()`.
+1. Exécutez le notebook Jupyter (`etl.ipynb` dans le dépôt) contenant les fonctions `extract()`, `transform()`, `load_in_mongo()`, `load_in_cassandra()` et `load_in_mysql()`.
 
 2. La fonction `extract()` récupère les données horaires de l'API AirQuino.
 
