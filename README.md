@@ -91,4 +91,4 @@ Pour effectuer le processus ETL, suivez ces étapes :
 
 2. **Connextion de apache superset à ma base de données cassandra**
 
-Ces difficultés m'ont obligé à utiliser une bd relationnelle à apache superset
+Ces difficultés m'ont contraint à utiliser une bd relationnelle pour la connecter à apache superset
